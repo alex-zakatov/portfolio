@@ -5,7 +5,7 @@
 # Стек технологий
 Pandas, NumPy, Matplotlib, SciPy
 
-[Ноутбук с исследованием](01_real-estate.ipynb)
+[Ноутбук с исследованием](02_scooter_rides.ipynb)
 
 # Выводы
 ### География
